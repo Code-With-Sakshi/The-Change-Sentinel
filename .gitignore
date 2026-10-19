@@ -1,0 +1,25 @@
+
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Generated outputs
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+desktop.ini
