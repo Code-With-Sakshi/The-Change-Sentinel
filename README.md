@@ -74,4 +74,5 @@ The Change Sentinel is a preliminary screening prototype. Its outputs should be 
 
 **Prototype — quarry-focused satellite change screening.**
 
+Prototype Link: https://the-change-sentinel-q2ksccas7clsqxjqrpsfxf.streamlit.app/
 The project demonstrates an initial workflow for exploring potential quarry-related surface changes. Completing and validating the full monitoring and evidence-backed case-file pipeline described in the problem statement remains future work.
